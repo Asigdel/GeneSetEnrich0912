@@ -1,0 +1,81 @@
+]0;~/Desktop/GeneSetEnrich0912[?1034h(base) Anils-MacBook-Air:GeneSetEnrich0912 asigdel$ pew[K[Kwd
+/Users/asigdel/Desktop/GeneSetEnrich0912
+]0;~/Desktop/GeneSetEnrich0912(base) Anils-MacBook-Air:GeneSetEnrich0912 asigdel$ git init
+Initialized empty Git repository in /Users/asigdel/Desktop/GeneSetEnrich0912/.git/
+]0;~/Desktop/GeneSetEnrich0912(base) Anils-MacBook-Air:GeneSetEnrich0912 asigdel$ git remote  add origin https://github.com/Asigdel/GeneSetEnrich0912.git
+]0;~/Desktop/GeneSetEnrich0912(base) Anils-MacBook-Air:GeneSetEnrich0912 asigdel$ git push -u  origin master
+error: src refspec master does not match any.
+[31merror: failed to push some refs to 'https://github.com/Asigdel/GeneSetEnrich0912.git'
+[m]0;~/Desktop/GeneSetEnrich0912(base) Anils-MacBook-Air:GeneSetEnrich0912 asigdel$ git remote  add origin https://github.com/Asigdel/GeneSetEnrich0912.git
+fatal: remote origin already exists.
+]0;~/Desktop/GeneSetEnrich0912(base) Anils-MacBook-Air:GeneSetEnrich0912 asigdel$ get remote  -v
+bash: get: command not found
+]0;~/Desktop/GeneSetEnrich0912(base) Anils-MacBook-Air:GeneSetEnrich0912 asigdel$ get remote --v[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cit remote -v[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ct remote -[1Pv[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ct remote -v[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cit remote -v[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+origin	https://github.com/Asigdel/GeneSetEnrich0912.git (fetch)
+origin	https://github.com/Asigdel/GeneSetEnrich0912.git (push)
+]0;~/Desktop/GeneSetEnrich0912(base) Anils-MacBook-Air:GeneSetEnrich0912 asigdel$ [K(base) Anils-MacBook-Air:GeneSetEnrich0912 asigdel$ [K(base) Anils-MacBook-Air:GeneSetEnrich0912 asigdel$ CLEAR[K[K[K[K[Kcla[Kear
+[3J[H[2J]0;~/Desktop/GeneSetEnrich0912(base) Anils-MacBook-Air:GeneSetEnrich0912 asigdel$ git add .
+]0;~/Desktop/GeneSetEnrich0912(base) Anils-MacBook-Air:GeneSetEnrich0912 asigdel$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	[32mnew file:   .Rproj.user/7FAA5BAE/console06/9857AFAF[m
+	[32mnew file:   .Rproj.user/7FAA5BAE/console06/9857AFAF.env[m
+	[32mnew file:   .Rproj.user/7FAA5BAE/console06/INDEX001[m
+	[32mnew file:   .Rproj.user/7FAA5BAE/sources/prop/712749A8[m
+	[32mnew file:   .Rproj.user/7FAA5BAE/sources/prop/INDEX[m
+	[32mnew file:   .Rproj.user/7FAA5BAE/sources/s-43E94F13/C5FC7FC9[m
+	[32mnew file:   .Rproj.user/7FAA5BAE/sources/s-43E94F13/C5FC7FC9-contents[m
+	[32mnew file:   .Rproj.user/7FAA5BAE/sources/s-43E94F13/lock_file[m
+	[32mnew file:   .Rproj.user/shared/notebooks/patch-chunk-names[m
+	[32mnew file:   .Rproj.user/shared/notebooks/paths[m
+	[32mnew file:   GeneSetEnrich0912.Rproj[m
+	[32mnew file:   GeneSetInterpro.R[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   .Rproj.user/7FAA5BAE/console06/9857AFAF[m
+
+]0;~/Desktop/GeneSetEnrich0912(base) Anils-MacBook-Air:GeneSetEnrich0912 asigdel$ touh [K[Kch .gitignore
+]0;~/Desktop/GeneSetEnrich0912(base) Anils-MacBook-Air:GeneSetEnrich0912 asigdel$ vim .gitignore 
+[?2004h]0;~/Desktop/GeneSetEnrich0912(base) Anils-MacBook-Air:GeneSetEnrich0912 asigdel$ gis[Kt status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	[32mnew file:   .Rproj.user/7FAA5BAE/console06/9857AFAF[m
+	[32mnew file:   .Rproj.user/7FAA5BAE/console06/9857AFAF.env[m
+	[32mnew file:   .Rproj.user/7FAA5BAE/console06/INDEX001[m
+	[32mnew file:   .Rproj.user/7FAA5BAE/sources/prop/712749A8[m
+	[32mnew file:   .Rproj.user/7FAA5BAE/sources/prop/INDEX[m
+	[32mnew file:   .Rproj.user/7FAA5BAE/sources/s-43E94F13/C5FC7FC9[m
+	[32mnew file:   .Rproj.user/7FAA5BAE/sources/s-43E94F13/C5FC7FC9-contents[m
+	[32mnew file:   .Rproj.user/7FAA5BAE/sources/s-43E94F13/lock_file[m
+	[32mnew file:   .Rproj.user/shared/notebooks/patch-chunk-names[m
+	[32mnew file:   .Rproj.user/shared/notebooks/paths[m
+	[32mnew file:   GeneSetEnrich0912.Rproj[m
+	[32mnew file:   GeneSetInterpro.R[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   .Rproj.user/7FAA5BAE/console06/9857AFAF[m
+	[31mmodified:   .Rproj.user/7FAA5BAE/console06/INDEX001[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31m.gitignore[m
+
+]0;~/Desktop/GeneSetEnrich0912(base) Anils-MacBook-Air:GeneSetEnrich0912 asigdel$ a[Kgits[K add .

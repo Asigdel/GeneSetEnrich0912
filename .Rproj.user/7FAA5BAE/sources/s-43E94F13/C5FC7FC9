@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1568321805771.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3024731442",
+    "id" : "C5FC7FC9",
+    "lastKnownWriteTime" : 1568321831,
+    "last_content_update" : 1568321831369,
+    "path" : "~/Desktop/GeneSetEnrich0912/GeneSetInterpro.R",
+    "project_path" : "GeneSetInterpro.R",
+    "properties" : {
+        "cursorPosition" : "397,0",
+        "scrollLine" : "355",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
