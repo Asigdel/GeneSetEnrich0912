@@ -141,3 +141,340 @@ To https://github.com/Asigdel/GeneSetEnrich0912.git
 Branch 'master' set up to track remote branch 'master' from 'origin'.
 ]0;~/Desktop/GeneSetEnrich0912(base) Anils-MacBook-Air:GeneSetEnrich0912 asigdel$ clear
 [3J[H[2J]0;~/Desktop/GeneSetEnrich0912(base) Anils-MacBook-Air:GeneSetEnrich0912 asigdel$ git add .
+]0;~/Desktop/GeneSetEnrich0912(base) Anils-MacBook-Air:GeneSetEnrich0912 asigdel$ git stuat[K[Kat[K[K[Katus
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	[32mmodified:   .Rproj.user/7FAA5BAE/console06/9857AFAF[m
+	[32mmodified:   .Rproj.user/7FAA5BAE/sources/prop/712749A8[m
+	[32mmodified:   .Rproj.user/7FAA5BAE/sources/s-43E94F13/C5FC7FC9[m
+	[32mmodified:   .Rproj.user/7FAA5BAE/sources/s-43E94F13/C5FC7FC9-contents[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   .Rproj.user/7FAA5BAE/console06/9857AFAF[m
+
+]0;~/Desktop/GeneSetEnrich0912(base) Anils-MacBook-Air:GeneSetEnrich0912 asigdel$ g[Kgit commit -m "[C"[Ct"r"y"[C
+[master b95be1c] try
+ 4 files changed, 72 insertions(+), 8 deletions(-)
+]0;~/Desktop/GeneSetEnrich0912(base) Anils-MacBook-Air:GeneSetEnrich0912 asigdel$ git push
+Enumerating objects: 23, done.
+Counting objects:   4% (1/23)   Counting objects:   8% (2/23)   Counting objects:  13% (3/23)   Counting objects:  17% (4/23)   Counting objects:  21% (5/23)   Counting objects:  26% (6/23)   Counting objects:  30% (7/23)   Counting objects:  34% (8/23)   Counting objects:  39% (9/23)   Counting objects:  43% (10/23)   Counting objects:  47% (11/23)   Counting objects:  52% (12/23)   Counting objects:  56% (13/23)   Counting objects:  60% (14/23)   Counting objects:  65% (15/23)   Counting objects:  69% (16/23)   Counting objects:  73% (17/23)   Counting objects:  78% (18/23)   Counting objects:  82% (19/23)   Counting objects:  86% (20/23)   Counting objects:  91% (21/23)   Counting objects:  95% (22/23)   Counting objects: 100% (23/23)   Counting objects: 100% (23/23), done.
+Delta compression using up to 4 threads
+Compressing objects:   8% (1/12)   Compressing objects:  16% (2/12)   Compressing objects:  25% (3/12)   Compressing objects:  33% (4/12)   Compressing objects:  41% (5/12)   Compressing objects:  50% (6/12)   Compressing objects:  58% (7/12)   Compressing objects:  66% (8/12)   Compressing objects:  75% (9/12)   Compressing objects:  83% (10/12)   Compressing objects:  91% (11/12)   Compressing objects: 100% (12/12)   Compressing objects: 100% (12/12), done.
+Writing objects:   8% (1/12)   Writing objects:  16% (2/12)   Writing objects:  25% (3/12)   Writing objects:  33% (4/12)   Writing objects:  41% (5/12)   Writing objects:  50% (6/12)   Writing objects:  58% (7/12)   Writing objects:  66% (8/12)   Writing objects:  75% (9/12)   Writing objects:  83% (10/12)   Writing objects:  91% (11/12)   Writing objects: 100% (12/12)   Writing objects: 100% (12/12), 2.69 KiB | 918.00 KiB/s, done.
+Total 12 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/2)[Kremote: Resolving deltas:  50% (1/2)[Kremote: Resolving deltas: 100% (2/2)[Kremote: Resolving deltas: 100% (2/2), completed with 2 local objects.[K
+To https://github.com/Asigdel/GeneSetEnrich0912.git
+   738261e..b95be1c  master -> master
+]0;~/Desktop/GeneSetEnrich0912(base) Anils-MacBook-Air:GeneSetEnrich0912 asigdel$ git higtory[K[K[K[K[Kstory
+git: 'history' is not a git command. See 'git --help'.
+]0;~/Desktop/GeneSetEnrich0912(base) Anils-MacBook-Air:GeneSetEnrich0912 asigdel$ git history[1Phistory[1Phistory[1Phistory[1Phistory
+    1  ssh anil.sigdel@hpg2.rc.ufl.edu
+    2  ssh anil.sigdel@hpg2.rc.ufl.edu
+    3  ssh anil.sigdel@hpg2.rc.ufl.edu
+    4  ssh anil.sigdel@hpg2.rc.ufl.edu
+    5  ssh anil.sigdel@hpg2.rc.ufl.edu
+    6  ssh anil.sigdel@hpg2.rc.ufl.edu
+    7  ssh anil.sigdel@hpg.rc.ufl.edu
+    8  ls
+    9  ssh anil.sigdel@hpg.rc.ufl.edu
+   10  cd Desktop/
+   11  ls
+   12  ls
+   13  ssh anil.sigdel@hpg.rc.ufl.edu
+   14  ssh anil.sigdel@hpg2.rc.ufl.edu
+   15  cd Desktop/
+   16  ls
+   17  ssh anil.sigdel@hpg.rc.ufl.edu
+   18  ssh anil.sigdel@hpg.rc.ufl.edu
+   19  ssh anil.sigdel@hpg.rc.ufl.edu
+   20  ssh anil.sigdel@hpg.rc.ufl.edu
+   21  ssh anil.sigdel@hpg2.rc.ufl.edu
+   22  ssh anil.sigdel@hpg2.rc.ufl.edu
+   23  ssh anil.sigdel@hpg2.rc.ufl.edu
+   24  ssh anil.sigdel@hpg2.rc.ufl.edu
+   25  ssh anil.sigdel@hpg.rc.ufl.edu
+   26  ls
+   27  ls
+   28  cd Desktop/
+   29  ls
+   30  ssh anil.sigdel@hpg.rc.ufl.edu
+   31  ssh anil.sigdel@hpg2.rc.ufl.edu
+   32  ssh ail.sigdel@hpg.rc.ufl.edu
+   33  ssh anil.sigdel@hpg.rc.ufl.edu
+   34  ssh anil.sigdel@hpg.rc.ufl.edu
+   35  ssh anil.sigdel@hpg2.rc.ufl.edu
+   36  ssh anil.sigdel@hpg.rc.ufl.edu
+   37  ssh anil.sigdel@hpg2.rc.ufl.edu
+   38  ssh anil.sigdel@hpg.rc.ufl.edu
+   39  ssh anil.sigdel@hpg.rc.ufl.edu
+   40  ssh anil.sigdel@hpg.rc.ufl.edu
+   41  ssh anil.sigdel@hpg2.rc.ufl.edu
+   42  ssh anil.sigdel@hpg.rc.ufl.edu
+   43  ls
+   44  ssh anil.sigdel@hpg.rc.ufl.edu
+   45  ssh anil.sigdel@hpg.rc.ufl.edu
+   46  ssh anil.sigdel@hpg.rc.ufl.edu
+   47  ssh anil.sigdel@hpg2.rc.ufl.edu
+   48  ssh anil.sigdel@hpg2.rc.ufl.edu
+   49  ssh anil.sigdel@hpg.rc.ufl.edu
+   50  ssh anil.sigdel@hpg.rc.ufl.edu
+   51  ssh anil.sigdel@hpg2.rc.ufl.edu
+   52  ssh anil.sigdel@hpg2.rc.ufl.edu
+   53  ssh anil.sigdel@hpg.rc.ufl.edu
+   54  ssh anil.sigdel@hpg.rc.ufl.edu
+   55  ssh anil.sigdel@hpg2.rc.ufl.edu
+   56  ssh anil.sigdel@hpg.rc.ufl.edu
+   57  ssh anil.sigdel@hpg2.rc.ufl.edu
+   58  ssh anil.sigdel@hpg.rc.ufl.edu
+   59  ssh anil.sigdel@hpg2.rc.ufl.edu
+   60  ssh anil.sigdel@hpg.rc.ufl.edu
+   61  ssh anil.sigdel@hpg2.rc.ufl.edu
+   62  ssh anil.sigdel@hpg2.rc.ufl.edu
+   63  ssh anil.sigdel@hpg2.rc.ufl.edu
+   64  ssh anil.sigdel@hpg2.rc.ufl.edu
+   65  ssh anil.sigdel@hpg.rc.ufl.edu
+   66  ssh anil.sigdel@hpg2.rc.ufl.edu
+   67  ssh anil.sigdel@hpg2.rc.ufl.edu
+   68  ssh anil.sigdel@hpg2.rc.ufl.edu
+   69  ssh anil.sigdel@hpg.rc.ufl.edu
+   70  squeue -u anil.sigdel
+   71  ssh anil.sigdel@hpg.rc.ufl.edu
+   72  ssh anil.sigdel@hpg.rc.ufl.edu
+   73  ssh anil.sigdel@hpg2.rc.ufl.edu
+   74  cd ..
+   75  ls
+   76  ssh anil.sigdel@hpg.rc.ufl.edu
+   77  ssh anil.sigdel@hpg.rc.ufl.edu
+   78  ssh anil.sigdel@hpg.rc.ufl.edu
+   79  ssh anil.sigdel@hpg2.rc.ufl.edu
+   80  ssh anil.sigdel@hpg.rc.ufl.edu
+   81  source ~/.bashrc
+   82  source ~/.bashrc
+   83  source ~/.bashrc
+   84  cd
+   85  source ~/.bashrc
+   86  ssh anil.sigdel@hpg.rc.ufl.edu
+   87  ssh anil.sigdel@hpg.rc.ufl.edu
+   88  ssh anil.sigdel@hpg.rc.ufl.edu
+   89  ssh anil.sigdel@hpg.rc.ufl.edu
+   90  ssh anil.sigdel@hpg2.rc.ufl.edu
+   91  ssh anil.sigdel@hpg.rc.ufl.edu
+   92  ssh anil.sigdel@hpg.rc.ufl.edu
+   93  ssh anil.sigdel@hpg.rc.ufl.edu
+   94  ssh anil.sigdel@hpg2.rc.ufl.edu
+   95  ssh anil.sigdel@hpg.rc.ufl.edu
+   96  ssh anil.sigdel@ufl.edu
+   97  ssh anil.sigdel@hpg.rc.ufl.edu
+   98  ssh anil.sigdel@hpg2.rc.ufl.edu
+   99  ssh anil.sigdel@hpg.rc.ufl.edu
+  100  ssh anil.sigdel@hpg.rc.ufl.edu
+  101  ssh anil
+  102  ssh anil.sigdel@hpg.rc.ufl.edu
+  103  ssh anil.sigdel@hpg.rc.ufl.edu
+  104  ssha
+  105  ssh anil.sigdel@hpg.rc.ufl.edu
+  106  ssh anil.sigdel@hpg.rc.ufl.edu
+  107  ssh anil.sigdel@hpg.rc.ufl.edu
+  108  ssh anil.sigdel@hpg2.rc.ufl.edu
+  109  ssh anil.sigdel@hpg.rc.ufl.edu
+  110  ssh anil.sigdel@hpg.rc.ufl.edu
+  111  ssh anil.sigdel@hpg2.rc.ufl.edu
+  112  ssh anil.sigdel@hpg.rc.ufl.edu
+  113  ssh anil.sigdel@hpg2.rc.ufl.edu
+  114  ssh anil.sigdel@hpg2.rc.ufl.edu
+  115  ssh anil.sigdel@hpg2.rc.ufl.edu
+  116  ssh anil.sigdel@hpg2.rc.ufl.edu
+  117  ssh hpg
+  118  ssh hpg
+  119  cd
+  120  ssh hpg
+  121  cd ssh
+  122  cd .ssh
+  123  ls
+  124  vim known_hosts 
+  125  vim config
+  126  hpg
+  127  vim config 
+  128  ssh hpg
+  129  hpg
+  130  vim .bashrc
+  131  ssh anil.sigdel@hpg.rc.ufl.edu
+  132  ssh anil.sigdel@hpg.rc.ufl.edu
+  133  ssh hpg
+  134  ls
+  135  ssh hpg
+  136  ssh hpg
+  137  ssh hpg
+  138  ssh anil.sigdel@hpg.rc.ufl.edu
+  139  ssh anil.sigdel
+  140  ssh hpg
+  141  ssh hpg
+  142  ssh hpg
+  143  ls
+  144  ls
+  145  ssh hpg
+  146  ssh hpg
+  147  ssh hpg
+  148  ssh hpg
+  149  ssh hpg
+  150  ssh anil.sigdel@hpg.rc.ufl.edu
+  151  ssh hpg
+  152  ssh anil.sigdel@hpg.rc.ufl.edu
+  153  ssh anil.sigdel@hpg.rc.ufl.edu
+  154  ssh hpg
+  155  ssh hpg
+  156  ssh hpg
+  157  ssh hpg
+  158  ssh hpg
+  159  ssh hpg
+  160  ls
+  161  ssh hpg
+  162  ssh hpg
+  163  ssh hpg
+  164  ssh anil.sigdel@hpg2.rc.ufl.edu
+  165  ssh hpg
+  166  ssh hpg
+  167  ssh hpg
+  168  ssh hpg
+  169  ssh hpg
+  170  ssh hpg
+  171  ssh hpg
+  172  ssh hpg
+  173  ssh anil.sigdel@hpg.rc.ufl.edu
+  174  ssh hpg
+  175  ssh hpg
+  176  ssh hpg
+  177  ssh hpg
+  178  ssh hpg
+  179  ssh hpg
+  180  ssh hpg
+  181  ssh hpg
+  182  ssh hpg
+  183  ssh hpg
+  184  ssh hpg
+  185  ssh hpg
+  186  ssh hpg
+  187  ssh hpg
+  188  exit
+  189  ssh anil.sigdel@ufl.edu
+  190  ssh anil.sigdel@hpg.rc.ufl.edu
+  191  ssh hpg
+  192  ssh hpg
+  193  ssh hpg
+  194  ssh hpg
+  195  ssh hpg
+  196  ssh hpg
+  197  ssh hpg
+  198  ssh hpg
+  199  ssh hpg
+  200  ssh hpf
+  201  ssh hpg
+  202  ssh hpg
+  203  ssh hpg
+  204  ssh hpg
+  205  ssh hpg
+  206  ssh hpg
+  207  ssh anil.sigdel
+  208  ssh hpg
+  209  ssh hpg
+  210  ssh hpg
+  211  ssh hpg
+  212  cd .ssh
+  213  ls
+  214  cat config 
+  215  ssh hpg
+  216  ssh hpg
+  217  ssh hpg
+  218  ssh hpg
+  219  cd MILK
+  220  ssh hpg
+  221  pwd
+  222  ls
+  223  wget https://repo.anaconda.com/archive/Anaconda3-2019.07-MacOSX-x86_64.sh
+  224  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  225  brew install wget
+  226  wget https://repo.anaconda.com/archive/Anaconda3-2019.07-MacOSX-x86_64.sh
+  227  ls -lat
+  228  bash Anaconda3-2019.07-MacOSX-x86_64.sh 
+  229  ssh hpg
+  230  ssh hpg
+  231  cd hpg
+  232  ssh hpg
+  233  ssh hpg
+  234  ssh hpg
+  235  ssh hpg
+  236  ssh anil.sigdel@hpg.rc.ufl.edu
+  237  ssh hpg
+  238  ssh hpg
+  239  ssh hpg
+  240  ssh hpg
+  241  ssh hpg
+  242  ls
+  243  l
+  244  ls
+  245  cd ..
+  246  ls
+  247  ssh hpg
+  248  ssh hpg
+  249  ssh hpg
+  250  ssh hpg
+  251  ssh hpg
+  252  ssh hpg
+  253  ssh hpg
+  254  ls
+  255  ssh hpg
+  256  ls
+  257  ssh hpg
+  258  ls
+  259  ssh hpg
+  260  ls
+  261  ssh hpg
+  262  ssh hpg
+  263  ssh hpg
+  264  ssh hpg
+  265  ssh hpg
+  266  ls
+  267  ssh hpg
+  268  s
+  269  ls
+  270  ssh hpg
+  271  pwd
+  272  git init
+  273  git remote add origin https://github.com/Asigdel/GeneSetEnrich0912.git
+  274  git push -u origin master
+  275  git remote add origin https://github.com/Asigdel/GeneSetEnrich0912.git
+  276  get remote -v
+  277  git remote -v
+  278  clear
+  279  git add .
+  280  git status
+  281  touch .gitignore
+  282  vim .gitignore 
+  283  git status
+  284  git add .
+  285  git status
+  286  git commit -m "first commit"
+  287  git push
+  288  clear
+  289  git add .
+  290  git status
+  291  git commit -m "try"
+  292  git push
+  293  git history
+  294  history
+]0;~/Desktop/GeneSetEnrich0912(base) Anils-MacBook-Air:GeneSetEnrich0912 asigdel$ git --[Kh[K-higtro[K[K[K[Kstory
+unknown option: --history
+usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           <command> [<args>]
+]0;~/Desktop/GeneSetEnrich0912(base) Anils-MacBook-Air:GeneSetEnrich0912 asigdel$ clear
+[3J[H[2J]0;~/Desktop/GeneSetEnrich0912(base) Anils-MacBook-Air:GeneSetEnrich0912 asigdel$ git add .

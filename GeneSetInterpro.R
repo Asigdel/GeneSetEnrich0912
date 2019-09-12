@@ -9,6 +9,8 @@ setwd("~/Documents/Documents - Anil’s MacBook Air/CODES_PLOTS/PLOTS_MANHATTAN_
 library(biomaRt)
 listMarts()
 
+# we try github
+
 # we are using ENSEMBL_... database and btaurus_gene dataset by using the function usemart
 # We are trying to query the Ensembl bioMart webservices
 # useMart function queries the database Ensembl
